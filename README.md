@@ -1,4 +1,4 @@
-# Brain-Tumor-Segmentation
+# Brain-Tumor-Classification
 Thsi Brain Tumor Classification using Keras (a good guided project to understand the nitty gritty of Deep neural Networg
 k) is divided into following tasks:
 Task 1: Introduction
